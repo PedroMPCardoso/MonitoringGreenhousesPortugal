@@ -17,7 +17,7 @@ Google Earth Engine [Script](https://code.earthengine.google.com/d5c2a68bf632428
 
 [2021](https://drive.google.com/drive/folders/1643sVC6ELFLdTWqUg1wLADNuWKFcN4jA?usp=sharing)
 
-2022 - Incoming...
+[2022](https://drive.google.com/drive/folders/1HuYSqpyQTjgM-JSrVyV8UTCKaGNpT0dk?usp=sharing)
 
 ### Shapefiles
 [Portugal - NUTS3 regions](https://drive.google.com/file/d/1hbc3eyZEXef1zbfnUDpQDf32apLQTkxA/view?usp=sharing)
