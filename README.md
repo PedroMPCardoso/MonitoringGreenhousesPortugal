@@ -21,5 +21,6 @@ Google Earth Engine [Script](https://code.earthengine.google.com/d5c2a68bf632428
 
 ### Shapefiles
 [Portugal - NUTS3 regions](https://drive.google.com/file/d/1hbc3eyZEXef1zbfnUDpQDf32apLQTkxA/view?usp=sharing)
+[Training Data](https://drive.google.com/file/d/1L708YQC_-io0TBEFABpHkouJLhMp4bku/view?usp=sharing)
 
 
