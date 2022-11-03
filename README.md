@@ -22,12 +22,12 @@ Google Earth Engine [Script](https://code.earthengine.google.com/d5c2a68bf632428
 ### Shapefiles
 [Portugal - NUTS3 regions](https://drive.google.com/file/d/1hbc3eyZEXef1zbfnUDpQDf32apLQTkxA/view?usp=sharing)
 
-[Training Data](https://drive.google.com/file/d/1L708YQC_-io0TBEFABpHkouJLhMp4bku/view?usp=sharing)
+[Training Data Shapefiles](https://drive.google.com/file/d/1L708YQC_-io0TBEFABpHkouJLhMp4bku/view?usp=sharing)
 
 
 ### TensorFlow Records
 
-Training Data...
+[Training Data](https://drive.google.com/file/d/1V0joE0_OP5No0tjNKrOQ2x_rHT0ZBsPJ/view?usp=sharing)
 
 Testing Data...
 
