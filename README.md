@@ -8,7 +8,7 @@ The scripts for the **Jupyter Notebook** are in this repository, however the scr
 
 ## LINKS
 
-Google Earth Engine [Script](https://code.earthengine.google.com/d5c2a68bf63242815080d1fcdb1bb905).
+Google Earth Engine [Script](https://code.earthengine.google.com/465dd40940525577e44a57d24d638718).
 
 ### Drive with the Tiffs for each year:
 [2019](https://drive.google.com/drive/folders/10htMX1sqNA4vTUjtcAWzdWo6pfG96B2b?usp=sharing)
@@ -28,8 +28,6 @@ Google Earth Engine [Script](https://code.earthengine.google.com/d5c2a68bf632428
 ### TensorFlow Records
 
 [Training Data](https://drive.google.com/file/d/1V0joE0_OP5No0tjNKrOQ2x_rHT0ZBsPJ/view?usp=sharing)
-
-Testing Data...
 
 ## Results
 ![ExpansionGH](https://user-images.githubusercontent.com/56046521/199618433-d0818cf1-600b-4e5c-a25c-9ee7e1713c30.PNG)
