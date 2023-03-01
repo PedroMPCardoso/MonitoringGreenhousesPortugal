@@ -4,7 +4,9 @@ This project follows the steps represented in the following diagram, most tasks 
 
 ![DiagramaGitHub](https://user-images.githubusercontent.com/56046521/199080459-bc7bcdd8-e024-4172-a945-8bab1dcb5e6d.PNG)
 
-The scripts for the **Jupyter Notebook** are in this repository, however the script for the **Google Earth Engine Code** is provided by link
+The scripts for the **Jupyter Notebook** are in this repository, however the script for the **Google Earth Engine Code** is provided by link.
+
+The methods used to mask clouds are in this repository and in the **GEE** provided link.
 
 ## LINKS
 
@@ -32,4 +34,6 @@ Google Earth Engine [Script](https://code.earthengine.google.com/465dd4094052557
 ## Results
 ![ExpansionGH](https://user-images.githubusercontent.com/56046521/199618433-d0818cf1-600b-4e5c-a25c-9ee7e1713c30.PNG)
 
+## EXTERNAL LINKS
+[COS 2018 Shapefile](https://geo2.dgterritorio.gov.pt/cos/COS2018/COS2018v2-shp.zip)
 
