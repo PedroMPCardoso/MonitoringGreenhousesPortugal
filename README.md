@@ -10,7 +10,7 @@ The methods used to mask clouds are in this repository and in the **GEE** provid
 
 ## LINKS
 
-Google Earth Engine [Script](https://code.earthengine.google.com/465dd40940525577e44a57d24d638718).
+Google Earth Engine [Script](https://code.earthengine.google.com/a50a57bccd81cba006cac5045850ad48).
 
 ### Drive with the Tiffs for each year:
 [2019](https://drive.google.com/drive/folders/10htMX1sqNA4vTUjtcAWzdWo6pfG96B2b?usp=sharing)
